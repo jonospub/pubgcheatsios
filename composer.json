@@ -1,0 +1,24 @@
+{
+    "name": "pubgmobie/new",
+    "description": "pubg mobile cheat engine ",
+    "homepage": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK AND DOWNLOAD HERE Bigo Live Hack",
+            "homepage": "https://mobiletiperz.com/bigo-live-hack-coins-and-beans-generator-guide-cheats/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
